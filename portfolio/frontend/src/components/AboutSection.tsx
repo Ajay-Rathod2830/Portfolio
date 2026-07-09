@@ -90,7 +90,7 @@ function AboutSection({ about }: AboutSectionProps) {
               </p>
               <div className="grid gap-4 sm:grid-cols-2">
                 <StatItem label="Interests" value={data.interests.join(', ')} />
-                <StatItem label="Location" value="Pune, India" />
+                <StatItem label="Location" value="Vijaypur, Karnataka, India" />
               </div>
             </div>
             <div className="mt-10 space-y-6">
