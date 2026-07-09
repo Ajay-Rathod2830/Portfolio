@@ -1,0 +1,189 @@
+{
+  "name": "Ajay Rathod",
+  "title": "Aspiring AI Engineer | Python Developer | Machine Learning Enthusiast",
+  "bio": "I am a BE Computer Science and Engineering student at BLDEA's Dr. P.G. Halakatti College of Engineering and Technology, VTU. I am passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development. I enjoy building AI-powered applications that solve real-world problems and continuously improve my technical skills.",
+  "about": {
+    "education": "Bachelor of Engineering (BE) in Computer Science and Engineering, BLDEA's Dr. P.G. Halakatti College of Engineering and Technology, VTU",
+    "cgpa": "7.5",
+    "objective": "To begin my career as an AI Engineer by applying my knowledge of Python, Machine Learning, Computer Vision, and Full Stack Development to build intelligent, scalable, and impactful software solutions.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Data Science",
+      "React",
+      "FastAPI",
+      "SQL",
+      "Git",
+      "GitHub"
+    ],
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Cloud Computing",
+      "Open Source",
+      "Problem Solving"
+    ],
+    "timeline": [
+      {
+        "year": "2023",
+        "event": "Started learning Python programming and core Computer Science fundamentals."
+      },
+      {
+        "year": "2024",
+        "event": "Learned Machine Learning, Deep Learning and built academic AI projects."
+      },
+      {
+        "year": "2025",
+        "event": "Completed Indian Cattle Breed Detection, Plant Disease Detection and Study Tracker projects."
+      },
+      {
+        "year": "2026",
+        "event": "Developing DePIN Storage Sharing major project and preparing for AI Engineer placements."
+      }
+    ]
+  },
+
+  "projects": [
+    {
+      "id": "1",
+      "title": "Indian Cattle Breed Detection",
+      "description": "An AI-powered computer vision application that identifies Indian cattle breeds using deep learning models.",
+      "image": "/projects/cattle.jpg",
+      "tech": [
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "React",
+        "Flask"
+      ],
+      "github": "https://github.com/Ajay-Rathod2830/indian-cattle-breed-detection",
+      "demo": "",
+      "details": "Built using deep learning and computer vision techniques to classify Indian cattle breeds with an interactive web interface."
+    },
+    {
+      "id": "2",
+      "title": "Plant Disease Detection",
+      "description": "Deep learning based web application that detects plant diseases from leaf images.",
+      "image": "/projects/plant.jpg",
+      "tech": [
+        "Python",
+        "TensorFlow",
+        "Flask",
+        "React"
+      ],
+      "github": "https://github.com/Ajay-Rathod2830/plant-disease-detection",
+      "demo": "",
+      "details": "Uses image classification to identify plant diseases and help farmers with early diagnosis."
+    },
+    {
+      "id": "3",
+      "title": "Study Tracker",
+      "description": "A study management web application for tracking daily learning progress.",
+      "image": "/projects/studytracker.jpg",
+      "tech": [
+        "React",
+        "Firebase",
+        "JavaScript"
+      ],
+      "github": "https://github.com/Ajay-Rathod2830/study-tracker",
+      "demo": "",
+      "details": "Allows users to organize study goals, monitor progress and improve productivity."
+    },
+    {
+      "id": "4",
+      "title": "DePIN Storage Sharing",
+      "description": "Final year project focused on decentralized storage sharing with token-based resource contribution.",
+      "image": "/projects/depin.jpg",
+      "tech": [
+        "Python",
+        "React",
+        "FastAPI",
+        "SQLite"
+      ],
+      "github": "https://github.com/Ajay-Rathod2830/depin-storage-sharing",
+      "demo": "",
+      "details": "A decentralized storage sharing platform where users contribute storage resources and receive reward tokens."
+    }
+  ],  "skills": {
+    "Programming": [
+      { "name": "Python", "level": 90 },
+      { "name": "C", "level": 75 },
+      { "name": "Java", "level": 70 },
+      { "name": "JavaScript", "level": 80 }
+    ],
+    "Web": [
+      { "name": "HTML", "level": 90 },
+      { "name": "CSS", "level": 88 },
+      { "name": "React", "level": 85 },
+      { "name": "Tailwind CSS", "level": 82 }
+    ],
+    "AI/ML": [
+      { "name": "NumPy", "level": 88 },
+      { "name": "Pandas", "level": 85 },
+      { "name": "Scikit-learn", "level": 82 },
+      { "name": "TensorFlow", "level": 78 },
+      { "name": "PyTorch", "level": 75 },
+      { "name": "OpenCV", "level": 82 }
+    ],
+    "Database": [
+      { "name": "SQL", "level": 80 },
+      { "name": "MongoDB", "level": 72 },
+      { "name": "Firebase", "level": 78 }
+    ],
+    "Cloud": [
+      { "name": "AWS", "level": 70 }
+    ],
+    "Tools": [
+      { "name": "Git", "level": 88 },
+      { "name": "GitHub", "level": 90 },
+      { "name": "VS Code", "level": 95 },
+      { "name": "FastAPI", "level": 80 }
+    ]
+  },
+
+  "certificates": [
+    {
+      "title": "Google Generative AI",
+      "organization": "Google Cloud Skills Boost",
+      "issueDate": "2025",
+      "image": "/certificates/google-generative-ai.jpg",
+      "verifyUrl": ""
+    },
+    {
+      "title": "Oracle Certified Foundations Associate",
+      "organization": "Oracle",
+      "issueDate": "2025",
+      "image": "/certificates/oracle.jpg",
+      "verifyUrl": ""
+    },
+    {
+      "title": "NPTEL Machine Learning (Elite)",
+      "organization": "NPTEL",
+      "issueDate": "2025",
+      "image": "/certificates/nptel-ml.jpg",
+      "verifyUrl": ""
+    }
+  ],
+
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/ajay-rathod-146402365",
+    "github": "https://github.com/Ajay-Rathod2830",
+    "leetcode": "https://leetcode.com/u/Ajayrat123/",
+    "hackerrank": "https://www.hackerrank.com/profile/ajayrathod19058"
+  },
+
+  "contact": {
+    "email": "ajayrathod19058@gmail.com",
+    "phone": "+91 9591811192",
+    "location": "Vijayapura, Karnataka, India"
+  },
+
+  "aiAssistant": {
+    "enabled": true,
+    "greeting": "Hi, I'm Ajay Rathod. Welcome to my AI-powered portfolio. I'm a Computer Science Engineering student with a strong passion for Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development. This portfolio showcases my projects, certifications, technical skills, and learning journey. Feel free to explore and discover my work. Thank you for visiting!"
+
+  }
+}

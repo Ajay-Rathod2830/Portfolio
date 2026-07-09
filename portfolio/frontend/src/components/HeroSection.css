@@ -1,0 +1,14 @@
+.animate-typewriter {
+  animation: typewriter 3.5s steps(20, end) infinite;
+}
+
+@keyframes typewriter {
+  0%, 100% {
+    transform: translateY(0);
+    opacity: 0.95;
+  }
+  50% {
+    transform: translateY(-2px);
+    opacity: 1;
+  }
+}
