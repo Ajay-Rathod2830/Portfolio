@@ -53,3 +53,7 @@ The backend exposes:
 - `POST /contact`
 
 Adjust the API base URL in `frontend/vite.config.ts` or use `VITE_API_BASE_URL` environment variable when deploying.
+
+## 🌐 Live Demo
+
+https://portfolio-xi-liart-68.vercel.app
